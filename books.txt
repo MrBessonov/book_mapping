@@ -1,0 +1,42 @@
+title,author,city,genre,latitude,longitude
+"Rivers of London",Ben Aaranovich,London,detective,51.5334,-0.1675
+"Moon Over Soho",Ben Aaranovich,London,detective,51.5444,-0.1785
+"Kin",Kealan Patrick Burke,Elkwood,horror,34.9765,-86.7224
+"Dima Dubin",Artem Bizyaev,Kirov,comedy,58.5971,49.6421
+"Wuthering Heights",Emily Brontë,York,classic,53.9619,-1.078
+"The Master and Margarita",Mikhail Bulgakov,Moscow,classic,55.7310,37.6271
+"Deathless",Catherynne M. Valente,Saint Petersburg,fantasy,59.9217,30.3558
+"L'ecume des jours",Boris Vian,Paris,drama,48.8536,2.3308
+"Reprisal",Paul Wilson,Pendleton,horror,36.4714,-77.1985
+"The Keep",Paul Wilson,România,horror,47.5673,25.1744
+"The Tomb",Paul Wilson,New York,horror,40.6014,-74.1208
+"Reborn",Paul Wilson,New York,horror,40.6114,-74.1308
+"The Dark Fields",Alan Glynn,Vermont,detective,43.9849,-72.9190
+"Sherlock Holmes",Artur Conan Doyle,London,detective,51.5244,-0.1585
+"Little Brother",Cory Doctorow,San Francisco,science fiction,37.6989,-122.4296
+"A Night in the Lonesome October",Roger Zelazny,London,fantasy,51.5134,-0.1475
+"La Peste",Albert Camus,Oran,classic,35.6887,-0.6388
+"The Green Mile",Stephen King,Louisiana,drama,31.0309,-93.0081
+"Pet Sematary",Stephen King,Ludlow,horror,46.1503,-67.9637
+"Needful Things",Stephen King,Castle Rock,horror,43.8888,-69.7424
+"Cujo",Stephen King,Castle Rock,horror,43.8888,-69.7434
+"And Then There Were None",Agatha Christie,island near Devon,detective,51.1870,-4.6709
+"The Rib From Which I Remake the World",Ed Kurtz,Litchfield,horror,41.7627,-73.2093
+"At the Mountains of Madness",H. P. Lovecraft,Antarctica,horror,-76.0387,44.5526
+"Låt den rätte komma in",John Ajvide Lindqvist,Blackeberg,horror,59.3455,17.8751
+"Rörelsen – den andra platsen",John Ajvide Lindqvist,Blackeberg,horror,59.3367,18.0663
+"The Night Watch",Sergei Lukyanenko,Moscow,fantasy,55.7410,37.6271
+"The Queen of Bedlam",Robert McCammon,New York,detective,40.6014,-74.1008
+"The Listener",Robert McCammon,New Orlean,detective,30.0192,-90.0047
+"Bone White",Robert Malfi,Alaska,horror,67.3108,-155.2356
+"The Reddening",Adam Nevill,Devonshire,horror,51.0587,-4.2286
+"House of Small Shadows",Adam Nevill,London,horror,51.5364,-0.1675
+"No One Gets Out Alive",Adam Nevill,London,horror,51.5364,-0.1625
+"Apartment 16",Adam Nevill,London,horror,51.5354,-0.1655
+"Death Note",大場 つぐみ,Kanto Region,detective,36.1855,139.3461
+"4321",Paul Auster,New York,drama,40.6314,-74.1208
+"Sense and Sensibility",Jane Austen,Norland Park,classic,53.6988,-1.9024
+"Special Topics in Calamity Physics",Marisha Pessl,Stockton,drama,37.9983,-121.2998
+"The God of Small Things",Arundhati Roy,Aymanam,drama,9.6164,76.4928
+"Song of Kali",Dan Simmons,Kolkata,horror,22.6104,88.4024
+"River God",Wilbur Smith,Egypt,adventure,27.7331,30.0490
